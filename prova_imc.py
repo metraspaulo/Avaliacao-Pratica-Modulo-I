@@ -30,6 +30,3 @@ elif 34.9 <= 39.9:
     print("Obesidade grau II.")
 elif 39.9 <= 40.0:
     print("Obesidade grau III.")
-else:
-    print("Espro ter ajudado, se cuide e se alimente bem.")
-
